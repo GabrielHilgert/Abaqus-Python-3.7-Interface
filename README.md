@@ -2,9 +2,10 @@
 Interface entre python 3.7 e abaqus
 
 ## 1- Instalar dependências:
--Scipy -> Python 3.7
--PyZMQ -> Python 3.7 + Abaqus (Python 2.7)
-com: <br> <code>abaqus-python-addpkg.py install --conda PyZMQ</code>
+- Scipy -> Python 3.7
+- PyZMQ -> Python 3.7 + Abaqus (Python 2.7)
+com:\
+<code>abaqus-python-addpkg.py install --conda PyZMQ</code>
 
 ## 2-Criar Cliente e Servidor Local.
 
